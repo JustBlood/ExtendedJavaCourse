@@ -1,4 +1,4 @@
-package kirill.standard.files.serialization;
+package kirill.standard.files.serialization.firstEx;
 
 import java.io.Serializable;
 
